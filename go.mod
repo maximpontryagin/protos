@@ -1,4 +1,4 @@
-module protos
+module github.com/maximpontryagin/protos
 
 go 1.23.6
 
